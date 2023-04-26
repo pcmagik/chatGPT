@@ -1,4 +1,9 @@
-# 🎉 My Awesome Repository for chatGPT
+# 
+![Octoface](https://raw.githubusercontent.com/github/explore/master/topics/ai/ai.png)
+![Robot](https://raw.githubusercontent.com/github/explore/master/topics/ai/robot.png)
+![Brain](https://raw.githubusercontent.com/github/explore/master/topics/ai/brain.png)
+![Code](https://raw.githubusercontent.com/github/explore/master/topics/ai/code.png)
+ My Awesome Repository for chatGPT
 
 Welcome to my lab! This project is all about chatGPT.
 
