@@ -5,7 +5,7 @@ Welcome to my lab! This project is all about chatGPT.
 ## 💻 Getting Started
 To get started with this project, follow these steps:
 
-Just open Your broweser and eneter to chatGPT site.
+Just open Your browerser and eneter to chatGPT site.
 
 
 ## 🚀 Deployment
