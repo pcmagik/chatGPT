@@ -1,11 +1,11 @@
-# 
-![Octoface](https://raw.githubusercontent.com/github/explore/master/topics/ai/ai.png)
-![Robot](https://raw.githubusercontent.com/github/explore/master/topics/ai/robot.png)
-![Brain](https://raw.githubusercontent.com/github/explore/master/topics/ai/brain.png)
-![Code](https://raw.githubusercontent.com/github/explore/master/topics/ai/code.png)
- My Awesome Repository for chatGPT
+# Welcome to my lab! This project is all about chatGPT.
 
-Welcome to my lab! This project is all about chatGPT.
+![Octoface](https://raw.githubusercontent.com/github/explore/master/topics/ai/ai.png)
+
+
+
+## My Awesome Repository for chatGPT
+![Robot](https://raw.githubusercontent.com/github/explore/master/topics/ai/robot.png)
 
 ## 💻 Getting Started
 To get started with this project, follow these steps:
@@ -15,7 +15,7 @@ Just open Your browerser and eneter to chatGPT site.
 
 ## 🚀 Deployment
 This project is deployed using chatGPT.
-
+![Brain](https://raw.githubusercontent.com/github/explore/master/topics/ai/brain.png)
 
 ## 📝 Contributing
 If you'd like to contribute to this project, please submit a pull request with your changes. We welcome contributions of all kinds, from bug fixes to new features.
@@ -28,3 +28,4 @@ If this project is licensed, please see the LICENSE.md file for details.
 ## 📧 Contact
 If you have any questions or comments about this repository, please feel free to contact us at biuro@mateuszpiekut.pl. I'll love to hear from you!
 
+![Code](https://raw.githubusercontent.com/github/explore/master/topics/ai/code.png)
