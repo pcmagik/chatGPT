@@ -1,4 +1,4 @@
-# 🎉 My Awesome Repository for Proxmox chatGPT
+# 🎉 My Awesome Repository for chatGPT
 
 Welcome to my lab! This project is all about chatGPT.
 
