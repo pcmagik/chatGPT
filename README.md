@@ -1,4 +1,4 @@
-# ![GitHub Logo](https://pcmagik.pl/wp-content/uploads/2023/04/PC-MAGIK-niebieskie-e1681906039749.png) 🤖 Welcome to my lab! This project is all about chatGPT.
+# 🤖 Welcome to my lab! This project is all about chatGPT. ![GitHub Logo](https://pcmagik.pl/wp-content/uploads/2023/04/PC-MAGIK-niebieskie-e1681906039749.png)
 
 ![Octoface](https://raw.githubusercontent.com/github/explore/master/topics/ai/ai.png)
 
